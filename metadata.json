@@ -1,0 +1,6 @@
+{
+  "name": "CampusTrade",
+  "description": "Peer-to-Peer Engineering Marketplace for college students to buy and sell secondhand academic gear with zero brokerage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
